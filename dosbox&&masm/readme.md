@@ -1,4 +1,4 @@
-# **dosebox**
+# **dosbox**
 ## **使用mount 挂载驱动器**
 ```powershell
 mount C C:\123\
