@@ -11,6 +11,12 @@ mount C C:\123\
 将压缩包解压后的文件中的masm.exe,debug.exe等所有文件放到dos c盘的根目录下  
 - ## **配置dosbox**
 ![tp](https://github.com/Gyxqq/asm/blob/master/picture/config_1.png)  
-分辨率和输出设置
+分辨率和输出设置  
+在配置文件最后添加如下代码实现自动挂载
+```powershell
+mount C 文件夹位置
+C:
+```
+
 
 
