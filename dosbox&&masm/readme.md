@@ -1,7 +1,7 @@
 # **dosbox**
 ## **linux**下可以直接使用apt 命令安装 
 ## windows 下载exe安装
-## **使用mount 挂载驱动器**
+- ## **使用mount 挂载驱动器**
 ```powershell
 mount C C:\123\
 ```
@@ -9,4 +9,6 @@ mount C C:\123\
 然后输入C:切换到C盘
 ## **masm**
 将压缩包解压后的文件中的masm.exe,debug.exe等所有文件放到dos c盘的根目录下  
+- ## **配置dosbox**
+![tp](https://github.com/Gyxqq/asm/blob/master/picture/config_1.png)
 
